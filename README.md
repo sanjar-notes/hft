@@ -1,5 +1,4 @@
-# .template
-Notes template repository
+# hft (high frequency trading)
 
-This is used when a new note repo is created.
-It also has the .obsidian configs
+High Frequency Trading - exploring the field, jobs.
+It's the easiest 'analog' to desire and environment prediction at a market level.
